@@ -1,0 +1,1 @@
+This repo for learn about GO Language basic
